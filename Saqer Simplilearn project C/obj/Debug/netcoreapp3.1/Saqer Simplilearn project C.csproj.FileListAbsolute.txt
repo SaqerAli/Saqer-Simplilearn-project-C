@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\Saqer Simplilearn project C\Saqer Simplilearn project C\bin\Debug\netcoreapp3.1\Saqer Simplilearn project C.exe
+C:\Users\User\Source\Repos\Saqer Simplilearn project C\Saqer Simplilearn project C\bin\Debug\netcoreapp3.1\Saqer Simplilearn project C.deps.json
+C:\Users\User\Source\Repos\Saqer Simplilearn project C\Saqer Simplilearn project C\bin\Debug\netcoreapp3.1\Saqer Simplilearn project C.runtimeconfig.json
+C:\Users\User\Source\Repos\Saqer Simplilearn project C\Saqer Simplilearn project C\bin\Debug\netcoreapp3.1\Saqer Simplilearn project C.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Saqer Simplilearn project C\Saqer Simplilearn project C\bin\Debug\netcoreapp3.1\Saqer Simplilearn project C.dll
+C:\Users\User\Source\Repos\Saqer Simplilearn project C\Saqer Simplilearn project C\bin\Debug\netcoreapp3.1\Saqer Simplilearn project C.pdb
+C:\Users\User\Source\Repos\Saqer Simplilearn project C\Saqer Simplilearn project C\obj\Debug\netcoreapp3.1\Saqer Simplilearn project C.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Saqer Simplilearn project C\Saqer Simplilearn project C\obj\Debug\netcoreapp3.1\Saqer Simplilearn project C.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Saqer Simplilearn project C\Saqer Simplilearn project C\obj\Debug\netcoreapp3.1\Saqer Simplilearn project C.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Saqer Simplilearn project C\Saqer Simplilearn project C\obj\Debug\netcoreapp3.1\Saqer Simplilearn project C.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Saqer Simplilearn project C\Saqer Simplilearn project C\obj\Debug\netcoreapp3.1\Saqer Simplilearn project C.dll
+C:\Users\User\Source\Repos\Saqer Simplilearn project C\Saqer Simplilearn project C\obj\Debug\netcoreapp3.1\Saqer Simplilearn project C.pdb
+C:\Users\User\Source\Repos\Saqer Simplilearn project C\Saqer Simplilearn project C\obj\Debug\netcoreapp3.1\Saqer Simplilearn project C.genruntimeconfig.cache
